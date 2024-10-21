@@ -1,26 +1,32 @@
-Welcome to Day 1 of the Bash Scripting Challenge! Today, we will cover the basics of bash scripting to get you started. Let's dive in:
+# Welcome to Day 1 of the Bash Scripting Challenge!
 
-Task 1: Comments
-In bash scripts, comments are used to add explanatory notes or disable certain lines of code. Your task is to create a bash script with comments explaining what the script does.
+Today marks the beginning of your journey into the world of bash scripting! We’ll be covering the essentials to set you on the right path. Let’s get started!
 
-Task 2: Echo
-The echo command is used to display messages on the terminal. Your task is to create a bash script that uses echo to print a message of your choice.
+## Task 1: Comments
+In bash scripts, comments serve as helpful annotations or can be used to temporarily disable code lines. **Your task:** Create a bash script that includes comments to explain the purpose of each section.
 
-Task 3: Variables
-Variables in bash are used to store data and can be referenced by their name. Your task is to create a bash script that declares variables and assigns values to them.
+## Task 2: Echo
+The `echo` command allows you to display messages in the terminal. **Your task:** Write a bash script that employs `echo` to print a message of your choice.
 
-Task 4: Using Variables
-Now that you have declared variables, let's use them to perform a simple task. Create a bash script that takes two variables (numbers) as input and prints their sum using those variables.
+## Task 3: Variables
+Variables are vital for storing data in bash, and you can reference them by name. **Your task:** Develop a bash script that declares several variables and assigns values to them.
 
-Task 5: Using Built-in Variables
-Bash provides several built-in variables that hold useful information. Your task is to create a bash script that utilizes at least three different built-in variables to display relevant information.
+## Task 4: Using Variables
+Now that you’ve declared variables, let’s put them to work! **Your task:** Create a bash script that takes two numerical variables as input and prints their sum.
 
-Task 6: Wildcards
-Wildcards are special characters used to perform pattern matching when working with files. Your task is to create a bash script that utilizes wildcards to list all the files with a specific extension in a directory.
+## Task 5: Using Built-in Variables
+Bash includes a variety of built-in variables that contain useful information. **Your task:** Construct a bash script that uses at least three built-in variables to display relevant information.
 
-Submission Instructions:
-Create a single bash script that completes all the Tasks mentioned above. Add comments at appropriate places to explain what each part of the script does. Ensure that your script is well-documented and easy to understand.
+## Task 6: Wildcards
+Wildcards are special characters that allow for pattern matching when handling files. **Your task:** Create a bash script that utilizes wildcards to list all files with a specific extension in a directory.
 
-To submit your entry, create a GitHub repository and commit your script to it.
+---
 
-Good luck with Day 1 of the Bash Scripting Challenge! Tomorrow, the difficulty will increase as we move on to more advanced concepts. Happy scripting!
+## Submission Instructions:
+Compile all tasks into a single bash script. Be sure to include comments throughout to clarify each part of the script, ensuring it’s well-documented and easy to follow.
+
+To submit your work, create a GitHub repository and commit your script there.
+
+---
+
+**Good luck with Day 1 of the Bash Scripting Challenge!** Tomorrow, we’ll elevate the challenge as we explore more advanced concepts. Happy scripting!
